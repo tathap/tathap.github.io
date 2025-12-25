@@ -1,4 +1,4 @@
 theme: jekyll-theme-minimal
 title: Tatha's homepage
 description: Link to research project pdf
-<object data="Lumiere Paper.pdf" width="1000" height="1000" type='application/pdf'/>
+<a href="https://tathap.github.io/Research%20Paper.pdf" target="_blank">PDF.</a>

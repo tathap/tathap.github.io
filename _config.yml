@@ -1,4 +1,4 @@
 theme: jekyll-theme-minimal
 title: Tatha's homepage
 description: Link to research project pdf
-<a href="https://tathap.github.io/Research%20Paper.pdf" target="_blank">PDF.</a>
+research_paper_url: Research%20Paper.pdf
